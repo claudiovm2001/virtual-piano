@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1556803530 source:c:\users\1910313\documents\codeblocks\notas_musicais_mmsystem\main.c
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+
+1556830898 source:c:\users\cláudiovitor\onedrive\documentos\faculdade\lógica de programação i\trabalhos\notas_musicais_mmsystem\main.c
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+	<locale.h>
+
+1556841653 source:c:\users\cláudiovitor\onedrive\documentos\faculdade\lógica de programação i\trabalhos\instrumentos musicais\main.c
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+	<locale.h>
+
+1559333151 source:c:\users\cláudio vitor\onedrive\documentos\faculdade\lógica de programação i\trabalhos\instrumentos musicais\main.c
+	<stdio.h>
+	<windows.h>
+	<mmsystem.h>
+	<locale.h>
+
