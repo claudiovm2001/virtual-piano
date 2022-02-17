@@ -4,4 +4,5 @@ Dating back to early 2019 and made as a Programming Logic class assignment. This
 
 ||
 
+Um programa simples que simula um teclado musical/sintetizador br
 Meu 1º projeto pessoal de faculdade (cadeira de Lógica de Programação em 2019). Este software reproduz as notas básicas de vários instrumentos.
