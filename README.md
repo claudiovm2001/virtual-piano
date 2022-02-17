@@ -1,5 +1,5 @@
 # virtual-piano
-My first ever project. A simple program that simulates a music keyboard/synthetizer
+My first ever project. A simple program that simulates a music keyboard/synthetizer <br>
 Dating back to early 2019 and made as a Programming Logic class assignment. This program reproduces the basic notes of several instruments
 
 ||
